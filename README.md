@@ -24,6 +24,9 @@ search engine optimization is linked properly.
 # screenshots of the website:
 
 ![screenshot1](assets/images/Screenshot1.png)
+![screenshot2](assets/images/Screenshot2.png)
+![screenshot3](assets/images/Screenshot3.png)
 
 # repository name: improved-access-portal
+
 # github link: https://eramsk.github.io/improved-access-portal/
