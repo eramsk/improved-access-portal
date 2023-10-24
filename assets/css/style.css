@@ -1,13 +1,14 @@
+/* box attributes*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
-
+} 
+/* choose background color for website*/
 body {
     background-color: #d9dcd6;
-}
-
+} 
+/* style attributes for header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*style attributes for display image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* style attributes for side bar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* style attributes for sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* style attributes for footer */
 .footer {
     padding: 30px;
     clear: both;
